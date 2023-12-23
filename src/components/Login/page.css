@@ -1,0 +1,21 @@
+form{
+    background-image: radial-gradient(red,rgb(26, 76, 214),rgb(0, 255, 34));
+    height: 350px;
+    width: 350px;
+    margin-left: 35%;
+    justify-content: center;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 7%;
+    border: solid magenta 3px;
+    /* border: solid rgb(21, 255, 0) 4px; */
+
+}
+input{
+    border-radius: 4px;
+    border: solid rgb(204, 16, 16) 2px;
+    margin: 15px;
+}
+label{
+ color:white
+}
